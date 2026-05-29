@@ -1,0 +1,11 @@
+# Time                     Lat     Lon       Depth  Mag  Location
+  2024/02/26 17:25:43.465  44.392  -116.109  8.5    4.9  Idaho
+#---------------------------------------------------------------------#
+# Focal Mechanism
+Best Fitting Double Couple
+  Mo = 1.93e+23 dyne-cm
+  Mw = 4.79 
+  Z  = 12 km
+Plane   Strike  Dip  Rake
+  NP1      330    80   -15
+  NP2       63    75   -170

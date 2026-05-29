@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="920" viewBox="0 0 1120 920">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="560.0" y="38.0" font-size="25" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700" fill="#20242a">Station Mean_windowed_CC for Best Model</text>
+<text x="560.0" y="68.0" font-size="15" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700" fill="#5f6872">Depth=6 km, Strike=70°, Dip=60°, Rake=-160°</text>
+<circle cx="500" cy="430" r="52.5" fill="none" stroke="#d8dde3" stroke-width="1"/>
+<text x="505.0" y="391.5" font-size="11" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="400" fill="#5f6872">100 km</text>
+<circle cx="500" cy="430" r="105.0" fill="none" stroke="#d8dde3" stroke-width="1"/>
+<text x="505.0" y="339.0" font-size="11" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="400" fill="#5f6872">200 km</text>
+<circle cx="500" cy="430" r="157.5" fill="none" stroke="#d8dde3" stroke-width="1"/>
+<text x="505.0" y="286.5" font-size="11" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="400" fill="#5f6872">300 km</text>
+<circle cx="500" cy="430" r="210.0" fill="none" stroke="#d8dde3" stroke-width="1"/>
+<text x="505.0" y="234.0" font-size="11" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="400" fill="#5f6872">400 km</text>
+<circle cx="500" cy="430" r="262.5" fill="none" stroke="#d8dde3" stroke-width="1"/>
+<text x="505.0" y="181.5" font-size="11" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="400" fill="#5f6872">500 km</text>
+<circle cx="500" cy="430" r="315.0" fill="none" stroke="#d8dde3" stroke-width="1"/>
+<text x="505.0" y="129.0" font-size="11" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="400" fill="#5f6872">600 km</text>
+<line x1="185" y1="430" x2="815" y2="430" stroke="#c2c8cf" stroke-width="1"/>
+<line x1="500" y1="115" x2="500" y2="745" stroke="#c2c8cf" stroke-width="1"/>
+<text x="500.0" y="97.0" font-size="16" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700" fill="#20242a">N</text>
+<text x="835.0" y="435.0" font-size="16" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#20242a">E</text>
+<text x="500.0" y="775.0" font-size="16" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700" fill="#20242a">S</text>
+<text x="165.0" y="435.0" font-size="16" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#20242a">W</text>
+<circle cx="500" cy="430" r="7" fill="#a64b2a"/>
+<text x="500.0" y="416.0" font-size="12" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700" fill="#a64b2a">Epicenter</text>
+<circle cx="504.5" cy="389.4" r="12" fill="#cdd8d2" stroke="#20242a" stroke-width="1.2"/>
+<text x="514.5" y="373.4" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#111827">IW.PLID  0.58</text>
+<circle cx="586.9" cy="286.6" r="12" fill="#1f6f8b" stroke="#20242a" stroke-width="1.2"/>
+<text x="598.9" y="266.6" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#111827">US.MSO  0.90</text>
+<circle cx="644.4" cy="370.3" r="12" fill="#679ba8" stroke="#20242a" stroke-width="1.2"/>
+<text x="656.4" y="352.3" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#111827">IW.DLMT  0.77</text>
+<circle cx="683.4" cy="354.7" r="12" fill="#b2c8c7" stroke="#20242a" stroke-width="1.2"/>
+<text x="695.4" y="372.7" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#111827">US.BOZ  0.63</text>
+<circle cx="698.8" cy="587.0" r="12" fill="#699ca9" stroke="#20242a" stroke-width="1.2"/>
+<text x="710.8" y="569.0" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#111827">US.HWUT  0.76</text>
+<circle cx="647.4" cy="671.9" r="12" fill="#c8d6d0" stroke="#20242a" stroke-width="1.2"/>
+<text x="659.4" y="691.9" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#111827">US.DUG  0.59</text>
+<circle cx="512.0" cy="487.0" r="12" fill="#fff7e6" stroke="#20242a" stroke-width="1.2"/>
+<text x="500.0" y="505.0" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#111827">IW.MFID  0.49</text>
+<circle cx="538.6" cy="642.5" r="12" fill="#4a899c" stroke="#20242a" stroke-width="1.2"/>
+<text x="526.6" y="662.5" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#111827">US.ELK  0.82</text>
+<circle cx="390.8" cy="542.6" r="12" fill="#9dbbbe" stroke="#20242a" stroke-width="1.2"/>
+<text x="378.8" y="564.6" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#111827">US.WVOR  0.67</text>
+<circle cx="450.3" cy="402.8" r="12" fill="#ccd8d1" stroke="#20242a" stroke-width="1.2"/>
+<text x="438.3" y="386.8" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#111827">US.BMO  0.58</text>
+<circle cx="361.8" cy="310.4" r="12" fill="#48889c" stroke="#20242a" stroke-width="1.2"/>
+<text x="349.8" y="292.4" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#111827">US.HAWA  0.83</text>
+<circle cx="460.5" cy="203.8" r="12" fill="#d1dbd3" stroke="#20242a" stroke-width="1.2"/>
+<text x="448.5" y="185.8" font-size="14" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="end" font-weight="700" fill="#111827">US.NEW  0.58</text>
+<text x="925.0" y="183.0" font-size="15" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700" fill="#20242a">Mean CC</text>
+<rect x="910" y="205.0" width="28" height="4.9" fill="#1f6f8b" stroke="none"/>
+<rect x="910" y="208.9" width="28" height="4.9" fill="#21708c" stroke="none"/>
+<rect x="910" y="212.8" width="28" height="4.9" fill="#23728d" stroke="none"/>
+<rect x="910" y="216.7" width="28" height="4.9" fill="#26738e" stroke="none"/>
+<rect x="910" y="220.6" width="28" height="4.9" fill="#28748f" stroke="none"/>
+<rect x="910" y="224.5" width="28" height="4.9" fill="#2a7690" stroke="none"/>
+<rect x="910" y="228.4" width="28" height="4.9" fill="#2c7790" stroke="none"/>
+<rect x="910" y="232.3" width="28" height="4.9" fill="#2f7991" stroke="none"/>
+<rect x="910" y="236.2" width="28" height="4.9" fill="#317a92" stroke="none"/>
+<rect x="910" y="240.1" width="28" height="4.9" fill="#337b93" stroke="none"/>
+<rect x="910" y="244.0" width="28" height="4.9" fill="#357d94" stroke="none"/>
+<rect x="910" y="247.9" width="28" height="4.9" fill="#387e95" stroke="none"/>
+<rect x="910" y="251.8" width="28" height="4.9" fill="#3a7f96" stroke="none"/>
+<rect x="910" y="255.7" width="28" height="4.9" fill="#3c8197" stroke="none"/>
+<rect x="910" y="259.6" width="28" height="4.9" fill="#3e8298" stroke="none"/>
+<rect x="910" y="263.5" width="28" height="4.9" fill="#418399" stroke="none"/>
+<rect x="910" y="267.4" width="28" height="4.9" fill="#43859a" stroke="none"/>
+<rect x="910" y="271.3" width="28" height="4.9" fill="#45869a" stroke="none"/>
+<rect x="910" y="275.2" width="28" height="4.9" fill="#47879b" stroke="none"/>
+<rect x="910" y="279.1" width="28" height="4.9" fill="#4a899c" stroke="none"/>
+<rect x="910" y="283.0" width="28" height="4.9" fill="#4c8a9d" stroke="none"/>
+<rect x="910" y="286.9" width="28" height="4.9" fill="#4e8c9e" stroke="none"/>
+<rect x="910" y="290.8" width="28" height="4.9" fill="#508d9f" stroke="none"/>
+<rect x="910" y="294.7" width="28" height="4.9" fill="#538ea0" stroke="none"/>
+<rect x="910" y="298.6" width="28" height="4.9" fill="#5590a1" stroke="none"/>
+<rect x="910" y="302.5" width="28" height="4.9" fill="#5791a2" stroke="none"/>
+<rect x="910" y="306.4" width="28" height="4.9" fill="#5992a3" stroke="none"/>
+<rect x="910" y="310.3" width="28" height="4.9" fill="#5b94a4" stroke="none"/>
+<rect x="910" y="314.2" width="28" height="4.9" fill="#5e95a4" stroke="none"/>
+<rect x="910" y="318.1" width="28" height="4.9" fill="#6096a5" stroke="none"/>
+<rect x="910" y="322.0" width="28" height="4.9" fill="#6298a6" stroke="none"/>
+<rect x="910" y="325.9" width="28" height="4.9" fill="#6499a7" stroke="none"/>
+<rect x="910" y="329.8" width="28" height="4.9" fill="#679ba8" stroke="none"/>
+<rect x="910" y="333.7" width="28" height="4.9" fill="#699ca9" stroke="none"/>
+<rect x="910" y="337.6" width="28" height="4.9" fill="#6b9daa" stroke="none"/>
+<rect x="910" y="341.5" width="28" height="4.9" fill="#6d9fab" stroke="none"/>
+<rect x="910" y="345.4" width="28" height="4.9" fill="#70a0ac" stroke="none"/>
+<rect x="910" y="349.3" width="28" height="4.9" fill="#72a1ad" stroke="none"/>
+<rect x="910" y="353.2" width="28" height="4.9" fill="#74a3ae" stroke="none"/>
+<rect x="910" y="357.1" width="28" height="4.9" fill="#76a4ae" stroke="none"/>
+<rect x="910" y="361.0" width="28" height="4.9" fill="#79a5af" stroke="none"/>
+<rect x="910" y="364.9" width="28" height="4.9" fill="#7ba7b0" stroke="none"/>
+<rect x="910" y="368.8" width="28" height="4.9" fill="#7da8b1" stroke="none"/>
+<rect x="910" y="372.7" width="28" height="4.9" fill="#7fa9b2" stroke="none"/>
+<rect x="910" y="376.6" width="28" height="4.9" fill="#82abb3" stroke="none"/>
+<rect x="910" y="380.5" width="28" height="4.9" fill="#84acb4" stroke="none"/>
+<rect x="910" y="384.4" width="28" height="4.9" fill="#86aeb5" stroke="none"/>
+<rect x="910" y="388.3" width="28" height="4.9" fill="#88afb6" stroke="none"/>
+<rect x="910" y="392.2" width="28" height="4.9" fill="#8bb0b7" stroke="none"/>
+<rect x="910" y="396.1" width="28" height="4.9" fill="#8db2b8" stroke="none"/>
+<rect x="910" y="400.0" width="28" height="4.9" fill="#8fb3b8" stroke="none"/>
+<rect x="910" y="403.9" width="28" height="4.9" fill="#91b4b9" stroke="none"/>
+<rect x="910" y="407.8" width="28" height="4.9" fill="#93b6ba" stroke="none"/>
+<rect x="910" y="411.7" width="28" height="4.9" fill="#96b7bb" stroke="none"/>
+<rect x="910" y="415.6" width="28" height="4.9" fill="#98b8bc" stroke="none"/>
+<rect x="910" y="419.5" width="28" height="4.9" fill="#9ababd" stroke="none"/>
+<rect x="910" y="423.4" width="28" height="4.9" fill="#9cbbbe" stroke="none"/>
+<rect x="910" y="427.3" width="28" height="4.9" fill="#9fbdbf" stroke="none"/>
+<rect x="910" y="431.2" width="28" height="4.9" fill="#a1bec0" stroke="none"/>
+<rect x="910" y="435.1" width="28" height="4.9" fill="#a3bfc1" stroke="none"/>
+<rect x="910" y="439.0" width="28" height="4.9" fill="#a5c1c2" stroke="none"/>
+<rect x="910" y="442.9" width="28" height="4.9" fill="#a8c2c3" stroke="none"/>
+<rect x="910" y="446.8" width="28" height="4.9" fill="#aac3c3" stroke="none"/>
+<rect x="910" y="450.7" width="28" height="4.9" fill="#acc5c4" stroke="none"/>
+<rect x="910" y="454.6" width="28" height="4.9" fill="#aec6c5" stroke="none"/>
+<rect x="910" y="458.5" width="28" height="4.9" fill="#b1c7c6" stroke="none"/>
+<rect x="910" y="462.4" width="28" height="4.9" fill="#b3c9c7" stroke="none"/>
+<rect x="910" y="466.3" width="28" height="4.9" fill="#b5cac8" stroke="none"/>
+<rect x="910" y="470.2" width="28" height="4.9" fill="#b7cbc9" stroke="none"/>
+<rect x="910" y="474.1" width="28" height="4.9" fill="#bacdca" stroke="none"/>
+<rect x="910" y="478.0" width="28" height="4.9" fill="#bccecb" stroke="none"/>
+<rect x="910" y="481.9" width="28" height="4.9" fill="#bed0cc" stroke="none"/>
+<rect x="910" y="485.8" width="28" height="4.9" fill="#c0d1cd" stroke="none"/>
+<rect x="910" y="489.7" width="28" height="4.9" fill="#c3d2cd" stroke="none"/>
+<rect x="910" y="493.6" width="28" height="4.9" fill="#c5d4ce" stroke="none"/>
+<rect x="910" y="497.5" width="28" height="4.9" fill="#c7d5cf" stroke="none"/>
+<rect x="910" y="501.4" width="28" height="4.9" fill="#c9d6d0" stroke="none"/>
+<rect x="910" y="505.3" width="28" height="4.9" fill="#cbd8d1" stroke="none"/>
+<rect x="910" y="509.2" width="28" height="4.9" fill="#ced9d2" stroke="none"/>
+<rect x="910" y="513.1" width="28" height="4.9" fill="#d0dad3" stroke="none"/>
+<rect x="910" y="517.0" width="28" height="4.9" fill="#d2dcd4" stroke="none"/>
+<rect x="910" y="520.9" width="28" height="4.9" fill="#d4ddd5" stroke="none"/>
+<rect x="910" y="524.8" width="28" height="4.9" fill="#d7dfd6" stroke="none"/>
+<rect x="910" y="528.7" width="28" height="4.9" fill="#d9e0d7" stroke="none"/>
+<rect x="910" y="532.6" width="28" height="4.9" fill="#dbe1d7" stroke="none"/>
+<rect x="910" y="536.5" width="28" height="4.9" fill="#dde3d8" stroke="none"/>
+<rect x="910" y="540.4" width="28" height="4.9" fill="#e0e4d9" stroke="none"/>
+<rect x="910" y="544.3" width="28" height="4.9" fill="#e2e5da" stroke="none"/>
+<rect x="910" y="548.2" width="28" height="4.9" fill="#e4e7db" stroke="none"/>
+<rect x="910" y="552.1" width="28" height="4.9" fill="#e6e8dc" stroke="none"/>
+<rect x="910" y="556.0" width="28" height="4.9" fill="#e9e9dd" stroke="none"/>
+<rect x="910" y="559.9" width="28" height="4.9" fill="#ebebde" stroke="none"/>
+<rect x="910" y="563.8" width="28" height="4.9" fill="#edecdf" stroke="none"/>
+<rect x="910" y="567.7" width="28" height="4.9" fill="#efede0" stroke="none"/>
+<rect x="910" y="571.6" width="28" height="4.9" fill="#f2efe1" stroke="none"/>
+<rect x="910" y="575.5" width="28" height="4.9" fill="#f4f0e1" stroke="none"/>
+<rect x="910" y="579.4" width="28" height="4.9" fill="#f6f2e2" stroke="none"/>
+<rect x="910" y="583.3" width="28" height="4.9" fill="#f8f3e3" stroke="none"/>
+<rect x="910" y="587.2" width="28" height="4.9" fill="#fbf4e4" stroke="none"/>
+<rect x="910" y="591.1" width="28" height="4.9" fill="#fdf6e5" stroke="none"/>
+<rect x="910" y="205" width="28" height="390" fill="none" stroke="#6b7280"/>
+<text x="950.0" y="210.0" font-size="13" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#20242a">0.90</text>
+<text x="950.0" y="595.0" font-size="13" font-family="Arial, Microsoft YaHei, sans-serif" text-anchor="start" font-weight="700" fill="#20242a">0.49</text>
+</svg>
